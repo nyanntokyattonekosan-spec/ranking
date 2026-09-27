@@ -1,4 +1,4 @@
-# functions/message_logger.py
+# message_count.py
 import sqlite3
 import discord
 from datetime import datetime, timezone, timedelta
